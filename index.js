@@ -18,6 +18,8 @@ function johnLennonFacts(facts){
 }
 
 function iLoveTheBeatles(num){
-var arry = [];
-  
+  var arry = [];
+  do while (){
+    
+  }
 }
