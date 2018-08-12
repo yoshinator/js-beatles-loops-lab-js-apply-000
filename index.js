@@ -20,7 +20,7 @@ function johnLennonFacts(facts){
 function iLoveTheBeatles(num){
   var arry = [];
   do{
-    var i = 1;
+    var i = 0;
     arry[i] = "I love the Beatles!"
     i++;
     num++;
